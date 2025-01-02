@@ -1,0 +1,1 @@
+java -cp "$HARVESTER_INSTALL_DIR/harvester.jar" org.vivoweb.harvester.util.DatabaseClone -X databaseclone.config.xml
